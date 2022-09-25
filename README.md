@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @varderlander
-- 👀 I’m interested in many differnt code styles
 - 🌱 I’m currently learning C#, JavaScript, HTML, PHP, Python and another
-- 💞️ I’m looking to collaborate with my team
 - 📫 How to reach me (not avaible)
 
 <!---
